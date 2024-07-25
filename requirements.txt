@@ -1,0 +1,19 @@
+Flask==3.0.3
+Flask-Migrate==4.0.5
+flask-smorest==0.44.0
+Flask-SQLAlchemy==3.1.1
+Flask-JWT-Extended==4.6.0
+uuid_utils==0.6.1
+passlib==1.7.4
+typing_extensions==4.11.0
+python-dotenv==1.0.0
+Flask-Cors==4.0.0
+Flask-SocketIO==5.3.6
+gunicorn== 22.0.0
+eventlet==0.36.1
+psycopg2==2.9.9
+pydantic==1.10.8
+transformers==4.23.0
+joblib==1.4.2
+pandas==2.2.2
+scikit-learn==1.2.2
